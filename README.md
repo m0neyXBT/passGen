@@ -1,6 +1,6 @@
 # Password Generator
 
-This project is a simple password generator application built using Python and the Tkinter library. It allows users to generate random passwords with customizable length.
+This project is a simple password generator application built using Python and the Tkinter library. It allows users to generate random passwords with customizable length.(Max 20 characters)
 
 # Features:
 
