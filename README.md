@@ -24,7 +24,7 @@ Tkinter
 
 # File Structure:
 
-password_generator.py: Main Python script containing the application code.
+main.py: Main Python script containing the application code.
 
 # Contributing:
 
